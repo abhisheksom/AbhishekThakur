@@ -1,3 +1,4 @@
 # AbhishekThakur
 It's my first git repository.
-Author - Thakur Abhishek Som
+<br>
+Author - Thakur Abhishek Som.
